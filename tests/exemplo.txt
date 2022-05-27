@@ -1,0 +1,6 @@
+{
+    int i; int j; int a; //
+    for( a=0; i>j; i=i+1){
+        a=a+i; 
+    }
+}
